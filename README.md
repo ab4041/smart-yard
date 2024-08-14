@@ -38,7 +38,7 @@ This project aims to create a robust system for real-time monitoring and managem
 
 This solution leverages existing CCTV cameras, GPS, and RFID scanners to provide real-time insights and improve logistics operations.
 
-[Solution Demo](assets/demo1.mp4)
+
 
 <br>
 
@@ -114,7 +114,7 @@ The architecture includes data capture via cameras and IoT sensors, real-time pr
 </tr>
  
 <tr>
- <td height="250" width="280" align="center"><div align=center><img src="assets/bleach.jpeg" width="230" /></td>
+ <td height="250" width="280" align="center"><div align=center><img src="assets/log_report.png" width="230" /></td>
  <td rowspan="2" align="center" width="550" height="550"><img src="assets/bleach output.png" width="500" /></td>
 </tr>
 <tr height="250">
@@ -158,7 +158,7 @@ The main Python file for this project is main.py. It handles the overall data fl
    ```
 
 <br> <p>
-<img src="assets/tutorial-2.png" width="250" height = "250"  /> <img src="assets/qrCode (3).png" width="250" height = "250"  />  <img src="assets/tutorial-3.png" width="250" height = "250" />
+<img src="assets/log_report.png" width="250" height = "250"  /> <img src="assets/qrCode (3).png" width="250" height = "250"  />  <img src="assets/tutorial-3.png" width="250" height = "250" />
 </p>
 
 
