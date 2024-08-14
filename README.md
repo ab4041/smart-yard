@@ -114,7 +114,11 @@ The architecture includes data capture via cameras and IoT sensors, real-time pr
 </tr>
  
 <tr>
- <td height="250" width="280" align="center"><div align=center>https://github.com/user-attachments/assets/533842ef-b063-403a-bd9f-e2f8d9293418
+ <td height="250" width="280" align="center"><div align=center>
+ 
+https://github.com/user-attachments/assets/533842ef-b063-403a-bd9f-e2f8d9293418
+
+
   </td>
  <td rowspan="2" align="center" width="550" height="550"><img src="assets/bleach output.png" width="500" /></td>
 </tr>
