@@ -38,10 +38,7 @@ This project aims to create a robust system for real-time monitoring and managem
 
 This solution leverages existing CCTV cameras, GPS, and RFID scanners to provide real-time insights and improve logistics operations.
 
-<video width="640" height="480" controls>
-  <source src="assets/demo1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video align = "center" >
+[Solution Demo](assets/demo1.mp4)
 
 <br>
 
