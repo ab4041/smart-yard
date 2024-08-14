@@ -169,15 +169,19 @@ We are committed to continuously improving and expanding the system's capabiliti
 
 <br>
 
-check out these links for:
-[PPT](https://github.com/deveshruttala/smart-yard/blob/main/assets/walmart%20sparkathon.pptx)
-[Presentation Video]()
-[Solution Video](https://drive.google.com/file/d/1x5u0ZhdS9Ha2KO68_ljVn0yrVj5Tetww/view?resourcekey)
-[Future Scope](https://drive.google.com/file/d/1US7kl1uJtoPFkS2a1-wzQeLithEcm0IP/view?resourcekey)
-[Outputs](https://drive.google.com/file/d/1yCBosOoR392LM-yxaze84bjp50brYVJy/view?resourcekey)
-[Outputs]()
+check out these links for:<br>
 
+[PPT](https://github.com/deveshruttala/smart-yard/raw/main/assets/walmart%20sparkathon.pptx)<br>
 
-<br>
+[Presentation Video]()<br>
+
+[Solution Video](https://drive.google.com/file/d/1x5u0ZhdS9Ha2KO68_ljVn0yrVj5Tetww/view?resourcekey)<br>
+
+[Future Scope](https://drive.google.com/file/d/1US7kl1uJtoPFkS2a1-wzQeLithEcm0IP/view?resourcekey)<br>
+
+[Outputs](https://drive.google.com/file/d/1yCBosOoR392LM-yxaze84bjp50brYVJy/view?resourcekey)<br>
+
+[Outputs](https://github.com/deveshruttala/smart-yard/raw/main/assets/code_demo.mp4)<br>
+
  
 thanks for reading! --- devesh  
