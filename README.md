@@ -40,7 +40,6 @@ This solution leverages existing CCTV cameras, GPS, and RFID scanners to provide
 
 
 
-Uploading demo1.mp4…
 
 
 <br>
