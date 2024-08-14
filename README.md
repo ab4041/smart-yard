@@ -39,6 +39,13 @@ This project aims to create a robust system for real-time monitoring and managem
 This solution leverages existing CCTV cameras, GPS, and RFID scanners to provide real-time insights and improve logistics operations.
 
 
+<br> <p  align = "center" width="600" height = "250" >
+
+
+ https://github.com/user-attachments/assets/13cc664b-d194-4f18-b47d-cd6bd6181067
+ 
+ </p>
+
 
 <br>
 
@@ -105,30 +112,15 @@ The architecture includes data capture via cameras and IoT sensors, real-time pr
 - **Integration with Emerging Technologies**: Explore integration with new technologies such as AI-driven predictive models and IoT advancements for enhanced functionality.
 
 
-<br>
-<table>
-  
-<tr>
-   <td align="center">Outputs </td>
-   <td align="center">Solutions</td> 
-</tr>
- 
-<tr>
- <td height="250" width="280" align="center"><div align=center>
- 
+
+<br> <p  align = "center" width="600" height = "250" >
+
+
 https://github.com/user-attachments/assets/533842ef-b063-403a-bd9f-e2f8d9293418
+ 
+ </p>
 
 
-  </td>
- <td rowspan="2" align="center" width="550" height="550"><img src="assets/bleach output.png" width="500" /></td>
-</tr>
-<tr height="250">
-  <td align="center" width="280"><div align=center><div align=center><img src="assets/deveshqr.png" width="230" /></td> 
-</tr>
-
-</table>
-
-<br><br>
 
 
 
