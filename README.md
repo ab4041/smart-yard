@@ -189,10 +189,6 @@ The main Python file for this project is main.py. It handles the overall data fl
    streamlit run main.py //Use this to run streamlit 
    ```
 
-<br> <p>
-<img src="assets/log_report.png" width="200" height = "200" align = 'center' /> <img src="assets/object_tracking.png" width="200" height = "200" align = 'center'  />  <img src="assets/safety_equip.png" width="200" height = "200"  align = 'center'/> <img src="assets/detected-truck.png" width="200" height = "200"  align = 'center'/>
-</p>
-
 
 <br> <p  align = "center" width="600" height = "250" >
 
@@ -201,6 +197,11 @@ https://github.com/user-attachments/assets/4382b836-b30b-458e-b2a9-218525f8db97
 </p>
 
 ## Conclusion and credits
+
+<br> <p>
+<img src="assets/log_report.png" width="200" height = "200" align = 'center' /> <img src="assets/object_tracking.png" width="200" height = "200" align = 'center'  />  <img src="assets/safety_equip.png" width="200" height = "200"  align = 'center'/> <img src="assets/detected-truck.png" width="200" height = "200"  align = 'center'/>
+</p>
+
 
 Our AI-powered computer vision system advances logistics with real-time tracking, predictive maintenance, enhanced security, and comprehensive cargo tracking, boosting efficiency and integration with analytical tools. We appreciate those who contributed, provided datasets, and supplied footage.<br>
 We are committed to continuously improving and expanding the system's capabilities to address evolving challenges and leverage new technologies. Your feedback and suggestions are welcome as we work towards further innovations. 
