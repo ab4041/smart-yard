@@ -196,7 +196,7 @@ The main Python file for this project is main.py. It handles the overall data fl
 
 <br> <p  align = "center" width="600" height = "250" >
 
-https://github.com/user-attachments/assets/7e8e17be-5edd-48e8-a93a-20c37d99f94c
+https://github.com/user-attachments/assets/4382b836-b30b-458e-b2a9-218525f8db97
 
 </p>
 
