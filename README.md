@@ -146,7 +146,8 @@ https://github.com/user-attachments/assets/7e8e17be-5edd-48e8-a93a-20c37d99f94c
 <tr height="250">
   <td align="center" width="280"><div align=center>
   
-https://github.com/user-attachments/assets/67e5b8e1-0222-4d53-b44c-a688d0a83967
+
+https://github.com/user-attachments/assets/48546d99-ee1f-4e40-af29-380fa5b6a76c
 
   
   </td> 
@@ -192,6 +193,12 @@ The main Python file for this project is main.py. It handles the overall data fl
 <img src="assets/log_report.png" width="200" height = "200" align = 'center' /> <img src="assets/object_tracking.png" width="200" height = "200" align = 'center'  />  <img src="assets/safety_equip.png" width="200" height = "200"  align = 'center'/> <img src="assets/detected-truck.png" width="200" height = "200"  align = 'center'/>
 </p>
 
+
+<br> <p  align = "center" width="600" height = "250" >
+
+https://github.com/user-attachments/assets/7e8e17be-5edd-48e8-a93a-20c37d99f94c
+
+</p>
 
 ## Conclusion and credits
 
