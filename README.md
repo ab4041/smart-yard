@@ -167,6 +167,16 @@ The main Python file for this project is main.py. It handles the overall data fl
 Our AI-powered computer vision system advances logistics with real-time tracking, predictive maintenance, enhanced security, and comprehensive cargo tracking, boosting efficiency and integration with analytical tools. We appreciate those who contributed, provided datasets, and supplied footage.<br>
 We are committed to continuously improving and expanding the system's capabilities to address evolving challenges and leverage new technologies. Your feedback and suggestions are welcome as we work towards further innovations. 
 
+<br>
+
+check out these links for:
+[PPT](https://github.com/deveshruttala/smart-yard/blob/main/assets/walmart%20sparkathon.pptx)
+[Presentation Video]()
+[Solution Video](https://drive.google.com/file/d/1x5u0ZhdS9Ha2KO68_ljVn0yrVj5Tetww/view?resourcekey)
+[Future Scope](https://drive.google.com/file/d/1US7kl1uJtoPFkS2a1-wzQeLithEcm0IP/view?resourcekey)
+[Outputs](https://drive.google.com/file/d/1yCBosOoR392LM-yxaze84bjp50brYVJy/view?resourcekey)
+[Outputs]()
+
 
 <br>
  
