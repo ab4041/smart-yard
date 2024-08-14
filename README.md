@@ -158,7 +158,7 @@ The main Python file for this project is main.py. It handles the overall data fl
    ```
 
 <br> <p>
-<img src="assets/log_report.png" width="200" height = "200"  /> <img src="assets/object_tracking.png" width="200" height = "200"  />  <img src="assets/safety_equip.png" width="200" height = "200" />
+<img src="assets/log_report.png" width="200" height = "200" align = 'center' /> <img src="assets/object_tracking.png" width="200" height = "200" align = 'center'  />  <img src="assets/safety_equip.png" width="200" height = "200"  align = 'center'/>
 </p>
 
 
