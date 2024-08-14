@@ -38,6 +38,11 @@ This project aims to create a robust system for real-time monitoring and managem
 
 This solution leverages existing CCTV cameras, GPS, and RFID scanners to provide real-time insights and improve logistics operations.
 
+<video width="640" height="480" controls>
+  <source src="assets/demo1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video align = "center" >
+
 <br>
 
 ### System design and technical implementation (HLD)
@@ -148,9 +153,7 @@ To set up the environment for this project, follow these steps:
    pip install -r requirements.txt
    ```
 4. **To run the application, use** :
-
 The main Python file for this project is main.py. It handles the overall data flow,processing with computer vision models, and logging data.
-<br>
 
    ```
    python main.py //Use this to run python files directly
@@ -164,14 +167,10 @@ The main Python file for this project is main.py. It handles the overall data fl
 
 ## Conclusion and credits
 
-Our AI-powered computer vision system represents a significant advancement in logistics and supply chain management. By leveraging real-time tracking, predictive maintenance, enhanced security monitoring, and comprehensive cargo tracking, this system provides valuable insights and improves operational efficiency. The system’s ability to integrate with analytical tools and monitor various aspects of the supply chain ensures a robust and secure environment for logistics operations.
-<br>
-We are committed to continuously improving and expanding the system's capabilities to address evolving challenges and leverage new technologies. Your feedback and suggestions are welcome as we work towards further innovations. <br>
-We sincerely thank those who contributed to development, provided essential datasets and videos, and supplied high-quality footage for model testing..
-<br>
-Special thanks to everyone who supported and collaborated with us throughout this project. Your expertise, resources, and feedback have been crucial to the success of this endeavor.
+Our AI-powered computer vision system advances logistics with real-time tracking, predictive maintenance, enhanced security, and comprehensive cargo tracking, boosting efficiency and integration with analytical tools. We appreciate those who contributed, provided datasets, and supplied footage.<br>
+We are committed to continuously improving and expanding the system's capabilities to address evolving challenges and leverage new technologies. Your feedback and suggestions are welcome as we work towards further innovations. 
 
 
 <br>
  
-I thank you reading! --- devesh  
+thanks for reading! --- devesh  
