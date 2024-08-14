@@ -122,6 +122,38 @@ https://github.com/user-attachments/assets/533842ef-b063-403a-bd9f-e2f8d9293418
 
 
 
+<br><table>
+  
+<tr>
+   <td align="center">Outputs </td>
+   <td align="center">Solutions</td> 
+</tr>
+ 
+<tr>
+ <td height="250" width="280" align="center"><div align=center>
+ 
+https://github.com/user-attachments/assets/7e8e17be-5edd-48e8-a93a-20c37d99f94c
+
+
+  </td>
+ <td rowspan="2" align="center" width="550" height="550">
+ 
+ https://github.com/user-attachments/assets/fa91a9d0-25cd-4978-a4c4-2ceca47c5482
+ 
+ 
+ </td>
+</tr>
+<tr height="250">
+  <td align="center" width="280"><div align=center>
+  
+  
+  </td> 
+</tr>
+
+</table>
+
+<br><br>
+
 
 
 <br> 
