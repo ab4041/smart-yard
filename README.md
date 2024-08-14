@@ -109,8 +109,8 @@ The architecture includes data capture via cameras and IoT sensors, real-time pr
 <table>
   
 <tr>
-   <td align="center">Style </td>
-   <td align="center">Output</td> 
+   <td align="center">Outputs </td>
+   <td align="center">Solutions</td> 
 </tr>
  
 <tr>
@@ -137,7 +137,7 @@ To set up the environment for this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/deveshruttala/yard-management-ai.git
+   git clone https://github.com/deveshruttala/smart-yard.git
    cd your-repository
    ```
 2. **Create a Virtual Environment (optional but recommended)** : 
@@ -158,7 +158,7 @@ The main Python file for this project is main.py. It handles the overall data fl
    ```
 
 <br> <p>
-<img src="assets/log_report.png" width="250" height = "250"  /> <img src="assets/object_tracking.png" width="250" height = "250"  />  <img src="assets/safety_equip.png" width="250" height = "250" />
+<img src="assets/log_report.png" width="200" height = "200"  /> <img src="assets/object_tracking.png" width="200" height = "200"  />  <img src="assets/safety_equip.png" width="200" height = "200" />
 </p>
 
 
