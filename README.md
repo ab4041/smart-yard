@@ -8,7 +8,7 @@ This project utilizes AI-powered computer vision to revolutionize Walmart's supp
 ## Project Details 
 <br>
 
-[![Video Title](assets/youtube.png)](https://youtu.be/JRuXwzI86pE)
+[![Video Title](assets/youtube.png)](https://youtu.be/j1zhCuwN2b4?feature=shared)
 
 
 ### About Project
