@@ -8,6 +8,9 @@ This project utilizes AI-powered computer vision to revolutionize Walmart's supp
 ## Project Details 
 <br>
 
+[![Video Title](assets/youtube.png)](https://youtu.be/JRuXwzI86pE)
+
+
 ### About Project
 This project aims to create a robust system for real-time monitoring and management of logistics operations. By leveraging advanced technologies, it provides:
 
